@@ -1,0 +1,120 @@
+body{
+    display: flex;
+    margin-bottom: 30px;
+    width: 90%;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+      }
+button {
+    background-color: rgb(206, 78, 61);
+    color: white;
+    padding: 15px ;
+    border-radius: 5px;
+    border: none;
+}
+button:hover {
+    background-color: darkred;
+    color: white;
+}.info-card1 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 2px solid #e8eaea;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    margin: 30px;
+    transition: 500ms linear;
+} 
+.info-card1:hover {
+    border: 2px solid #3945d1;
+    transform: scale(1.1);
+      }
+h1{
+    color: black;
+    font-size: 30px ;
+}
+p.aa {
+    color: green;
+    font-size: 20px ;
+  }
+p.ii {
+    color: gray;
+    font-size: 15px ;
+  }
+p.ff {
+    color: gray;
+    font-size: 15px ;
+  }
+p.hh {
+    color: gray;
+    font-size: 15px ;
+  }
+
+.info-card2 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 2px solid #e8eaea;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    margin-right : 30px;
+    transition: 500ms linear;   
+} 
+.info-card2:hover {
+    border: 2px solid #3945d1;
+    transform: scale(1.1);
+      }
+h1{
+    color: black;
+    font-size: 30px ;
+}
+p.ee {
+    color: green;
+    font-size: 20px ;
+  }
+p.gg {
+    color: gray;
+    font-size: 15px ;
+  }
+p.jj {
+    color: gray;
+    font-size: 15px ;
+  }
+p.oo {
+    color: gray;
+    font-size: 15px ;
+  }
+.info-card3 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 2px solid #e8eaea;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    transition: 500ms linear;   
+}
+.info-card3:hover {
+    border: 2px solid #3945d1;
+    transform: scale(1.1);
+      }
+h1{
+    color: black;
+    font-size: 30px ;
+}
+p.cc {
+    color: green;
+    font-size: 20px ;
+  }
+p.xx {
+    color: gray;
+    font-size: 15px ;
+  }
+p.qq {
+    color: gray;
+    font-size: 15px ;
+  }
+p.ss {
+    color: gray;
+    font-size: 15px ;
+  }
